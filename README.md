@@ -52,31 +52,31 @@ To run each "Hello World" program, follow the instructions below for each langua
 8. **Ruby**
     - Run: `ruby helloworld.rb`
 
-####C 
+#### C/C#/C++
 For csc, you need to have .NET SDK installed. You can download it from the [download](https://dotnet.microsoft.com/en-us/download) page.         
 For gcc and g++, you need to have them installed. On Linux, you can install them via your package manager (e.g., sudo apt install build-essential). 
 On Windows, consider using MinGW or WSL (Windows Subsystem for Linux). On macOS, they can be installed with Xcode command-line tools (xcode-select --install)
 
-####Java
+#### Java
 Make sure you have java installed on your system. You can check by running
 java -version
 javac -version
 
-####JavaScript
+#### JavaScript
 To run a JavaScript file (HelloWorld.js) you can use Node.js which is a Javascript runtime environment.
 Steps to run
 1. Make sure Node.js is installed | node -v
 2. Run the file | node HelloWorld.js
 
-####python
+#### Python
 Make sure python is installed | python --version
 Then run the file | python HelloWorld.py
 
-####Lua
+#### Lua
 Check if its installed | lua -v
 Run the file | lua helloworld.lua
 
-####Ruby
+#### Ruby
 Check if installed | ruby -v
 Run the ruby file | ruby helloworld.rb
 
